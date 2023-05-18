@@ -8,7 +8,6 @@ int main() {
     std::cin >> n >> k;
 
     int dayOfWeek = n;
-
     for ( int i = 1; i < n; ++i) 
     {
         std::cout << "   ";
